@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Mateus
 
-<!--
-**mateuslr7/mateuslr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e automação.  
+Atualmente praticando projetos com foco em sistemas web e scripts em PowerShell.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou explorando
+- JavaScript
+- Python
+- PowerShell
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- LinkedIn: https://www.linkedin.com/in/mateus-rebola-742750191/
+- Email: mateuslr500@gmail.com
